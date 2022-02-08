@@ -1,0 +1,4 @@
+#To convert Kilometers into Meters and Centimeters
+km = int (input("Enter the distance between two cities in kilometers: "))
+cent = (km * 100000)
+print("Distance between two cities in centimeters is: ",cent)
